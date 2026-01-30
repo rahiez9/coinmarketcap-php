@@ -2,6 +2,15 @@
 
 All notable changes to `tigusigalpa/coinmarketcap` will be documented in this file.
 
+## [v1.0.2] - 2026-01-30
+
+### Added
+- Laravel 12 support
+
+### Changed
+- Updated `illuminate/support` dependency to support `^10.0|^11.0|^12.0`
+- Updated `orchestra/testbench` dependency to support `^8.0|^9.0|^10.0`
+
 ## [Unreleased]
 
 ### Added
