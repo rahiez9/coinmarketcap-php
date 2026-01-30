@@ -3,7 +3,6 @@
 ![CoinMarketCap PHP SDK](https://github.com/user-attachments/assets/23b58c63-2624-4689-9f21-2566184e4608)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tigusigalpa/coinmarketcap.svg?style=flat-square)](https://packagist.org/packages/tigusigalpa/coinmarketcap)
-[![Total Downloads](https://img.shields.io/packagist/dt/tigusigalpa/coinmarketcap.svg?style=flat-square)](https://packagist.org/packages/tigusigalpa/coinmarketcap)
 [![License](https://img.shields.io/packagist/l/tigusigalpa/coinmarketcap.svg?style=flat-square)](https://packagist.org/packages/tigusigalpa/coinmarketcap)
 
 **Professional CoinMarketCap API v1 Integration for Laravel & PHP Applications**
